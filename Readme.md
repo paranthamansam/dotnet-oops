@@ -31,8 +31,6 @@
   - Multiple interface implementation
   - Interface vs Abstract class
 
----
-
 ## 🔁 Intermediate Level – Deep Dive into OOP
 
 - **Static Members**
@@ -51,8 +49,6 @@
 - **Composition vs Inheritance**
   - Has-a vs Is-a relationship
   - Favoring composition over inheritance
-
----
 
 ## 🔒 Advanced Level – Real-World OOP
 
@@ -75,8 +71,6 @@
   - Class diagrams
   - Inheritance and relationships
 
----
-
 ## 🧪 Practice and Projects
 
 - **Mini Projects Ideas**
@@ -91,118 +85,24 @@
   - Code smells
   - Improving design using OOP principles
 
-- **Files and Folder structrue.
+## 📁 Project Structure
 
-  dotnet-oops/
-│
+```
+dotnet-oops/
 ├── 01-IntroductionToOOP/
 │   ├── README.md
 │   ├── WhatIsOOP.cs
 │   ├── BenefitsOfOOP.cs
 │   └── ClassVsObject.cs
-│
 ├── 02-ClassesAndObjects/
 │   ├── README.md
 │   ├── CreatingClasses.cs
 │   ├── InstantiatingObjects.cs
 │   ├── Constructors.cs
 │   └── FieldsAndProperties.cs
-│
-├── 03-Encapsulation/
-│   ├── README.md
-│   ├── AccessModifiers.cs
-│   ├── GettersSetters.cs
-│   └── AutoImplementedProperties.cs
-│
-├── 04-Inheritance/
-│   ├── README.md
-│   ├── BaseKeyword.cs
-│   ├── OverridingMethods.cs
-│   └── AccessingBaseMembers.cs
-│
-├── 05-Polymorphism/
-│   ├── README.md
-│   ├── MethodOverloading.cs
-│   ├── MethodOverriding.cs
-│   └── VirtualOverrideNew.cs
-│
-├── 06-Abstraction/
-│   ├── README.md
-│   ├── AbstractClassesMethods.cs
-│   └── AbstractVsInterface.cs
-│
-├── 07-Interfaces/
-│   ├── README.md
-│   ├── CreatingImplementingInterfaces.cs
-│   ├── MultipleInterfaceImplementation.cs
-│   └── InterfaceVsAbstractClass.cs
-│
-├── 08-StaticMembers/
-│   ├── README.md
-│   ├── StaticMethodsFieldsConstructors.cs
-│   └── WhenToUseStatic.cs
-│
-├── 09-ObjectClass/
-│   ├── README.md
-│   └── ToStringEqualsGetHashCode.cs
-│
-├── 10-PropertiesAndIndexers/
-│   ├── README.md
-│   ├── ReadOnlyWriteOnlyProperties.cs
-│   ├── AutoProperties.cs
-│   └── Indexers.cs
-│
-├── 11-ConstructorsInDepth/
-│   ├── README.md
-│   ├── ConstructorOverloading.cs
-│   ├── StaticConstructors.cs
-│   └── ConstructorChaining.cs
-│
-├── 12-CompositionVsInheritance/
-│   ├── README.md
-│   ├── HasAVsIsA.cs
-│   └── FavorComposition.cs
-│
-├── 13-DependencyInjection/
-│   ├── README.md
-│   ├── ConstructorInjection.cs
-│   └── InterfaceBasedInjection.cs
-│
-├── 14-SOLIDPrinciples/
-│   ├── README.md
-│   ├── SingleResponsibility.cs
-│   ├── OpenClosed.cs
-│   ├── LiskovSubstitution.cs
-│   ├── InterfaceSegregation.cs
-│   └── DependencyInversion.cs
-│
-├── 15-DesignPatterns/
-│   ├── README.md
-│   ├── FactoryPattern.cs
-│   ├── SingletonPattern.cs
-│   ├── StrategyPattern.cs
-│   ├── ObserverPattern.cs
-│   └── AdapterPattern.cs
-│
-├── 16-UMLDiagrams/
-│   ├── README.md
-│   ├── ClassDiagram.png
-│   └── InheritanceRelationships.png
-│
-├── 17-PracticeProjects/
-│   ├── StudentManagementSystem/
-│   ├── LibraryManagementSystem/
-│   ├── BankingApplication/
-│   └── InventorySystem/
-│
-├── 18-UnitTesting/
-│   ├── README.md
-│   ├── UsingXUnit.cs
-│   └── MockingInterfaces.cs
-│
-├── 19-RefactoringOOP/
-│   ├── README.md
-│   ├── CodeSmells.cs
-│   └── ImprovingDesign.cs
-│
+├── [...]
 └── README.md
+```
+
+> Note: Full directory structure available in source repository.
+
